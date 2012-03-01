@@ -4,4 +4,4 @@
 # If you change this key, all old signed cookies will become invalid!
 # Make sure the secret is at least 30 characters and all random,
 # no regular words or you'll be exposed to dictionary attacks.
-SiteCV::Application.config.secret_token = '3b65626038b870071da194ecc53583a7f47e019dc5f97243853b87ab17a7c2bdb3d8579dbfa63d831953d4b3d004ac2ed45e7e6f4f5c96e584905d1d6dc27e8e'
+SiteCV::Application.config.secret_token = 'de1ef1e312829a76855b181d93cddaa89ae31063d714cd32bce69ec7892932f06d834f1cadb0c2532e058646e430761d5c7785a26fba3cae58fe114876748f8b'
